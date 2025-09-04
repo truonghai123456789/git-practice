@@ -1,3 +1,1 @@
-# Git Practice
-
-Giới thiệu: Tôi là <Le Truong Hai>, MSSV <223756>.
+Giới thiệu: Tôi là Le Truong Hai, MSSV <223756>.
